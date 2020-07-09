@@ -10,15 +10,6 @@ I'm also an avid contributor to open source and love to create and develop new p
 
 **😄 Pronouns**: He/Him
 
-## 💬 Ask me about
-
-- Kubernetes
-- Containers
-- JavaScript / TypeScript / Node.js
-- Web development
-- Personal branding / Career 
-- Anything!
-
 ## 📫 How to reach me
 
 I love to talk to people and discuss tech! You can reach me out on any channels below!
