@@ -15,7 +15,7 @@ I'm also an avid contributor to open source and love to create and develop new p
 I love to talk to people and discuss tech! You can reach me out on any channels below!
 
 - 🔗 I have a personal website at [https://lsantos.dev](https://lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
-- 📝 I also have a blog at [https://blog.lsantos.dev](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
+- 📝 I have a blog at [https://blog.lsantos.dev](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
   - I also write on [Medium](https://medium.com/@khaosdoctor), [FreeCodeCamp](https://www.freecodecamp.org/news/author/_staticvoid), and [Dev.to](https://dev.to/khaosdoctor)
 - 🐦 [@_staticvoid](https://twitter.com/_staticvoid)
 - 💬 [Telegram](https://t.me/lhs_santoss)
