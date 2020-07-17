@@ -20,7 +20,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   - I also write on [Medium](https://medium.com/@khaosdoctor), [FreeCodeCamp](https://www.freecodecamp.org/news/author/_staticvoid), and [Dev.to](https://dev.to/khaosdoctor)
 - 🐦 [@_staticvoid](https://twitter.com/_staticvoid)
 - 💬 [Telegram](https://t.me/lhs_santoss)
-- 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCki-WnBzwzpvbBDk4swJniQ?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
+- 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCki-WnBzwzpvbBDk4swJniQ?sub_confirmation=1)
 - 📧 You can also send me an [email](mailto:hello@lsantos.dev)
 
 ## ⚡ Fun facts
