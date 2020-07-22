@@ -28,8 +28,20 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Dev.to](https://dev.to/khaosdoctor):
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### My Blog
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+### Dev Community
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+### Medium
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ## ⚡ Fun facts
 
