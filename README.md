@@ -46,6 +46,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Medium
 
 <!-- MEDIUM:START -->
+- [Excelente artigo!](https://medium.com/@khaosdoctor/excelente-artigo-155f5093fc37?source=rss-84c42a22cef7------2)
+- [Opa cara fico muito feliz por ler isso!](https://medium.com/@khaosdoctor/opa-cara-fico-muito-feliz-por-ler-isso-ec0567da7d68?source=rss-84c42a22cef7------2)
+- [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
+- [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
+- [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
 <!-- MEDIUM:END -->
 
 ## ⚡ Fun facts
