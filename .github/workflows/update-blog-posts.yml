@@ -1,0 +1,24 @@
+name: Update blog posts
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: DEVTO
+          feed_list: "https://dev.to/feed/khaosdoctor"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/feed/@khaosdoctor"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://blog.lsantos.dev/rss"
