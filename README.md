@@ -18,10 +18,18 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 - 🔗 I have a personal website at [https://lsantos.dev](https://lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
 - 📝 I have a blog at [https://blog.lsantos.dev](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
   - I also write on [Medium](https://medium.com/@khaosdoctor), [FreeCodeCamp](https://www.freecodecamp.org/news/author/_staticvoid), and [Dev.to](https://dev.to/khaosdoctor)
+  - You can see my latest posts [down below](#latest-blog-posts)!
 - 🐦 [@_staticvoid](https://twitter.com/_staticvoid)
 - 💬 [Telegram](https://t.me/lhs_santoss)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCki-WnBzwzpvbBDk4swJniQ?sub_confirmation=1)
 - 📧 You can also send me an [email](mailto:hello@lsantos.dev)
+
+## 📝 Latest Blog Posts
+
+These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Dev.to](https://dev.to/khaosdoctor):
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Fun facts
 
