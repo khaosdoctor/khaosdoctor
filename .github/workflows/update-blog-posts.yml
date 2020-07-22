@@ -1,8 +1,12 @@
 name: Update blog posts
 on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+    
 
 jobs:
   update-readme-with-blog:
