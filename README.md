@@ -31,6 +31,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Weekly test 1](https://blog.lsantos.dev/weekly-test-1/)
 - [Olá, Mundo!](https://blog.lsantos.dev/ola-mundo/)
 <!-- BLOG:END -->
 
