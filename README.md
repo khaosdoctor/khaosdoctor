@@ -31,6 +31,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Olá, Mundo!](https://blog.lsantos.dev/ola-mundo/)
 <!-- BLOG:END -->
 
 ### Dev Community
