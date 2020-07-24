@@ -37,6 +37,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### FreeCodeCamp
 
 <!-- FCC:START -->
+- [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
 <!-- FCC:END -->
 
 ### Dev Community
