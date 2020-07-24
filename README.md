@@ -34,6 +34,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 - [Olá, Mundo!](https://blog.lsantos.dev/ola-mundo/)
 <!-- BLOG:END -->
 
+### FreeCodeCamp
+
+<!-- FCC:START -->
+<!-- FCC:END -->
+
 ### Dev Community
 
 <!-- DEVTO:START -->
