@@ -44,11 +44,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Um Mergulho em Imagens de Containers - Parte 1](https://dev.to/azure/um-mergulho-em-imagens-de-containers-parte-1-3cl7)
 - [Olá, Mundo!](https://dev.to/khaosdoctor/ola-mundo-35ha)
 - [Node.js por Baixo dos Panos #10 - Otimizações do Compilador](https://dev.to/khaosdoctor/node-js-por-baixo-dos-panos-10-otimizacoes-do-compilador-39oi)
 - [Do zero à automação em 7 minutos com GitHub Actions](https://dev.to/azure/do-zero-a-automacao-em-7-minutos-com-github-actions-1386)
 - [Aumentando a Segurança de suas imagens com Azure Container Registry](https://dev.to/azure/aumentando-a-seguranca-de-suas-imagens-com-azure-container-registry-2i4i)
-- [Construindo um Backend GraphQL sem uma Linha de Código](https://dev.to/azure/construindo-e-publicando-um-backend-graphql-completo-sem-escrever-uma-linha-de-codigo-g40)
 <!-- DEVTO:END -->
 
 ### Medium
