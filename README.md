@@ -31,6 +31,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Resumo semanal #1](https://blog.lsantos.dev/noticias-semanais-1/)
 - [Meetup: 1º Meetrybe - Arquitetura de código](https://blog.lsantos.dev/1-meetrybe-arquitetura-de-codigo/)
 - [Um Mergulho em Imagens de Containers - Parte 1](https://blog.lsantos.dev/um-mergulho-em-imagens-de-containers-parte-1/)
 - [Olá, Mundo!](https://blog.lsantos.dev/ola-mundo/)
