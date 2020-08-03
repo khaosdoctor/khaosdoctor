@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Notícias Semanais #2](https://blog.lsantos.dev/noticias-semanais-2/)
 - [Imersão Alura React Live #02 - Usando TypeScript no nosso projeto](https://blog.lsantos.dev/imersao-react-live-02-usando-typescript-no-nosso-projeto/)
 - [Um Mergulho em Imagens de Containers - Parte 2](https://blog.lsantos.dev/um-mergulho-em-imagens-de-containers-parte-2/)
 - [Resumo semanal #1](https://blog.lsantos.dev/noticias-semanais-1/)
 - [Meetup: 1º Meetrybe - Arquitetura de código](https://blog.lsantos.dev/1-meetrybe-arquitetura-de-codigo/)
-- [Um Mergulho em Imagens de Containers - Parte 1](https://blog.lsantos.dev/um-mergulho-em-imagens-de-containers-parte-1/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
