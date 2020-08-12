@@ -65,6 +65,6 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 
 ## ⚡ Fun facts
 
-- I homebrew and I love beer, if you want to buy me a beer for my work (which will always be free) check out the [sponsor link](https://rb.gy/dqhi1t) 🍻
+- I homebrew and I love beer, if you want to buy me a beer for my work (which will always be free) check out the [sponsor link](https://blog.lsantos.dev/doacoes/?utm_source=github&utm_medium=github_readme&utm_campaign=readme_link) 🍻
 - 📸 I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
