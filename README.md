@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Faça código em qualquer lugar com os Codespaces](https://blog.lsantos.dev/faca-codigo-em-qualquer-lugar-com-os-codespaces/)
 - [Notícias Semanais #3](https://blog.lsantos.dev/noticias-semanais-3/)
 - [Hipsters.tech #212 - Tecnologias Cloud na Microsoft](https://blog.lsantos.dev/hipsters-tech-212/)
 - [Executando Containers no Azure Container Instancies com Docker](https://blog.lsantos.dev/executando-containers-no-azure-container-instancies-com-docker/)
 - [Notícias Semanais #2](https://blog.lsantos.dev/noticias-semanais-2/)
-- [Imersão Alura React Live #02 - Usando TypeScript no nosso projeto](https://blog.lsantos.dev/imersao-react-live-02-usando-typescript-no-nosso-projeto/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
