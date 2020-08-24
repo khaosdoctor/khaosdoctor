@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Notícias Semanais #5](https://blog.lsantos.dev/noticias-semanais-5/)
 - [Elevando o nível de microsserviços com service meshes](https://blog.lsantos.dev/service-mesh-1/)
 - [Notícias Semanais #4](https://blog.lsantos.dev/noticias-semanais-4/)
 - [Um Mergulho em Imagens de Containers - Parte 3](https://blog.lsantos.dev/um-mergulho-em-imagens-de-containers-parte-3/)
 - [Faça código em qualquer lugar com os Codespaces](https://blog.lsantos.dev/faca-codigo-em-qualquer-lugar-com-os-codespaces/)
-- [Notícias Semanais #3](https://blog.lsantos.dev/noticias-semanais-3/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
