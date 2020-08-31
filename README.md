@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Notícias Semanais #6](https://blog.lsantos.dev/noticias-semanais-6/)
 - [Maratona Full Cycle 4.0](https://blog.lsantos.dev/maratona-full-cycle-4-0/)
 - [Notícias Semanais #5](https://blog.lsantos.dev/noticias-semanais-5/)
 - [Elevando o nível de microsserviços com service meshes](https://blog.lsantos.dev/service-mesh-1/)
 - [Notícias Semanais #4](https://blog.lsantos.dev/noticias-semanais-4/)
-- [Um Mergulho em Imagens de Containers - Parte 3](https://blog.lsantos.dev/um-mergulho-em-imagens-de-containers-parte-3/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
