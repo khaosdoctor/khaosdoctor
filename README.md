@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Otimização de custos com Kubernetes e AKS](https://blog.lsantos.dev/otimizando-custos-com-kubernetes-e-aks/)
 - [O que há de novo no TypeScript 4.0](https://blog.lsantos.dev/o-que-ha-de-novo-no-typescript-4-0/)
 - [Notícias Semanais #6](https://blog.lsantos.dev/noticias-semanais-6/)
 - [Maratona Full Cycle 4.0](https://blog.lsantos.dev/maratona-full-cycle-4-0/)
 - [Notícias Semanais #5](https://blog.lsantos.dev/noticias-semanais-5/)
-- [Elevando o nível de microsserviços com service meshes](https://blog.lsantos.dev/service-mesh-1/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
