@@ -47,11 +47,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Otimização de custos com Kubernetes e AKS](https://dev.to/azure/otimizacao-de-custos-com-kubernetes-e-aks-3bco)
 - [O que há de novo no TypeScript 4.0](https://dev.to/azure/o-que-ha-de-novo-no-typescript-4-0-4pab)
 - [Try the new Dev.to Node.js SDK](https://dev.to/khaosdoctor/try-the-new-dev-to-node-js-sdk-50f1)
 - [Elevando o nível de microsserviços com service meshes](https://dev.to/azure/elevando-o-nivel-de-microsservicos-com-service-meshes-13n2)
 - [Um Mergulho em Imagens de Containers - Parte 3](https://dev.to/azure/um-mergulho-em-imagens-de-containers-parte-3-3h14)
-- [Faça código em qualquer lugar com os Codespaces](https://dev.to/azure/faca-codigo-em-qualquer-lugar-com-os-codespaces-gap)
 <!-- DEVTO:END -->
 
 ### Medium
