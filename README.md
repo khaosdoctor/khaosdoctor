@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Saiba de tudo sobre seus serviços com Jaeger e Linkerd](https://blog.lsantos.dev/saiba-de-tudo-sobre-seus-servicos-com-jaeger-e-linkerd/)
 - [Notícias Semanais #8](https://blog.lsantos.dev/noticias-semanais-8/)
 - [Uma Introdução à Service Mesh com Linkerd](https://blog.lsantos.dev/uma-introducao-a-service-mesh-com-linkerd/)
 - [Notícias Semanais #7](https://blog.lsantos.dev/noticias-semanais-7/)
 - [Otimização de custos com Kubernetes e AKS](https://blog.lsantos.dev/otimizando-custos-com-kubernetes-e-aks/)
-- [O que há de novo no TypeScript 4.0](https://blog.lsantos.dev/o-que-ha-de-novo-no-typescript-4-0/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
