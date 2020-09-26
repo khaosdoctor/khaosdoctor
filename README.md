@@ -48,10 +48,10 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 
 <!-- DEVTO:START -->
 - [Docker image deploy: from VSCode to Azure in a click](https://dev.to/azure/docker-image-deploy-from-vscode-to-azure-in-a-click-5193)
+- [Conheça o GitHub Container Registry](https://dev.to/azure/conheca-o-github-container-registry-2gdp)
+- [Saiba de tudo sobre seus serviços com Jaeger e Linkerd](https://dev.to/azure/saiba-de-tudo-sobre-seus-servicos-com-jaeger-e-linkerd-58a6)
+- [Uma Introdução à Service Mesh com Linkerd](https://dev.to/azure/uma-introducao-a-service-mesh-com-linkerd-p2a)
 - [Why Every Developer Should Become a Writer](https://dev.to/khaosdoctor/why-every-developer-should-become-a-writer-1fim)
-- [Code Anywhere With Codespaces](https://dev.to/azure/code-anywhere-with-codespaces-1a7h)
-- [Otimização de custos com Kubernetes e AKS](https://dev.to/azure/otimizacao-de-custos-com-kubernetes-e-aks-3bco)
-- [O que há de novo no TypeScript 4.0](https://dev.to/azure/o-que-ha-de-novo-no-typescript-4-0-4pab)
 <!-- DEVTO:END -->
 
 ### Medium
