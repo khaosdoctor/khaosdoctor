@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Microsoft Reactor: Workshop de AKS com Virtual Nodes e AKS Com GitHub Actions](https://blog.lsantos.dev/microsoft-reactor-workshop-de-aks-com-virtual-nodes-e-aks-com-github-actions/)
 - [Notícias Semanais #10](https://blog.lsantos.dev/noticias-semanais-10/)
 - [Deploy de imagens Docker: Do VSCode para a Azure](https://blog.lsantos.dev/deploy-de-imagens-docker-do-vscode-para-a-azure/)
 - [Notícias Semanais #9](https://blog.lsantos.dev/noticias-semanais-9/)
 - [Conheça o GitHub Container Registry](https://blog.lsantos.dev/conheca-o-github-container-registry/)
-- [Saiba de tudo sobre seus serviços com Jaeger e Linkerd](https://blog.lsantos.dev/saiba-de-tudo-sobre-seus-servicos-com-jaeger-e-linkerd/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
