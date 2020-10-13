@@ -47,11 +47,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
+- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
+- [Microsoft Reactor: Workshop de AKS com Virtual Nodes e AKS Com GitHub Actions](https://dev.to/azure/microsoft-reactor-workshop-de-aks-com-virtual-nodes-e-aks-com-github-actions-1ho1)
 - [Docker image deploy: from VSCode to Azure in a click](https://dev.to/azure/docker-image-deploy-from-vscode-to-azure-in-a-click-5193)
 - [Deploy de imagens Docker: Do VSCode para a Azure](https://dev.to/azure/deploy-de-imagens-docker-do-vscode-para-a-azure-3f6i)
-- [Conheça o GitHub Container Registry](https://dev.to/azure/conheca-o-github-container-registry-2gdp)
-- [Saiba de tudo sobre seus serviços com Jaeger e Linkerd](https://dev.to/azure/saiba-de-tudo-sobre-seus-servicos-com-jaeger-e-linkerd-58a6)
-- [Uma Introdução à Service Mesh com Linkerd](https://dev.to/azure/uma-introducao-a-service-mesh-com-linkerd-p2a)
 <!-- DEVTO:END -->
 
 ### Medium
