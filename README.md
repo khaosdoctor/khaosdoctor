@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
 - [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 - [Notícias Semanais #11](https://blog.lsantos.dev/noticias-semanais-11/)
 - [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://blog.lsantos.dev/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes/)
 - [Será este o fim da carreira em desenvolvimento de software?](https://blog.lsantos.dev/sera-este-o-fim-das-pessoas-desenvolvedoras-chegamos-ao-limite-do-desenvolvimento-de-software/)
-- [Microsoft Reactor: Workshop de AKS com Virtual Nodes e AKS Com GitHub Actions](https://blog.lsantos.dev/microsoft-reactor-workshop-de-aks-com-virtual-nodes-e-aks-com-github-actions/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
