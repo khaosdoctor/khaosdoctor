@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://blog.lsantos.dev/por-que-black-fridays-dao-errado/)
 - [Entendendo Threading no Node.js com Rodrigo Branas](https://blog.lsantos.dev/entendendo-threading-no-node-js-com-rodrigo-branas/)
 - [Atualização Automática de SO com Unattended Upgrades](https://blog.lsantos.dev/atualizacao-automatica-de-so-com-unattended-upgrades/)
 - [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
 - [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
