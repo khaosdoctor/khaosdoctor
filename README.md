@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Giro de Notícias: Novembro de 2020](https://blog.lsantos.dev/giro-de-noticias-novembro-de-2020/)
 - [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://blog.lsantos.dev/entenda-a-comunicacao-entre-servicos-com-grpc-no-do-while-2020/)
 - [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://blog.lsantos.dev/por-que-black-fridays-dao-errado/)
 - [Entendendo Threading no Node.js com Rodrigo Branas](https://blog.lsantos.dev/entendendo-threading-no-node-js-com-rodrigo-branas/)
 - [Atualização Automática de SO com Unattended Upgrades](https://blog.lsantos.dev/atualizacao-automatica-de-so-com-unattended-upgrades/)
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
