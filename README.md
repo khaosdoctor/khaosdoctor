@@ -47,11 +47,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://dev.to/khaosdoctor/entenda-a-comunicacao-entre-servicos-com-grpc-no-dowhile-2020-56e8)
+- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://dev.to/khaosdoctor/por-que-black-fridays-dao-errado-hipsters-talks-1238)
+- [Entendendo Threading no Node.js com Rodrigo Branas](https://dev.to/khaosdoctor/entendendo-threading-no-node-js-com-rodrigo-branas-dlm)
+- [Atualização Automática de SO com Unattended Upgrades](https://dev.to/azure/atualizacao-automatica-de-so-com-unattended-upgrades-16e1)
 - [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
-- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
-- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
-- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
