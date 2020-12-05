@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/_staticvoid)
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/lhs-santos/)
 
-My name is Lucas Santos (he/him). I'm a [Cloud Developer Advocate](https://developer.microsoft.com/en-us/advocates/lucas-santos) at @microsoft from Brazil! I'm working mostly with containers and Kubernetes along with Node.js and TypeScript! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a former [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) and an active [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos).
+My name is Lucas Santos (he/him). I'm a [Cloud Developer Advocate](https://developer.microsoft.com/advocates/lucas-santos?WT.mc_id=opensource-0000-ludossan) at @microsoft from Brazil! I'm working mostly with containers and Kubernetes along with Node.js and TypeScript! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a former [Microsoft MVP](https://mvp.microsoft.com/PublicProfile/5003259?WT.mc_id=opensource-0000-ludossan) and an active [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos).
 
 - :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
 
@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
-- [Atualização Automática de SO com Unattended Upgrades](https://blog.lsantos.dev/atualizacao-automatica-de-so-com-unattended-upgrades/)
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
-- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
-- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [gRPC com Node.js no EnterJS 2020](https://blog.lsantos.dev/grpc-com-node-js-no-enterjs-2020/)
+- [Giro de Notícias: Novembro de 2020](https://blog.lsantos.dev/giro-de-noticias-novembro-de-2020/)
+- [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://blog.lsantos.dev/entenda-a-comunicacao-entre-servicos-com-grpc-no-do-while-2020/)
+- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://blog.lsantos.dev/por-que-black-fridays-dao-errado/)
+- [Entendendo Threading no Node.js com Rodrigo Branas](https://blog.lsantos.dev/entendendo-threading-no-node-js-com-rodrigo-branas/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
@@ -47,11 +47,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://dev.to/khaosdoctor/entenda-a-comunicacao-entre-servicos-com-grpc-no-dowhile-2020-56e8)
+- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://dev.to/khaosdoctor/por-que-black-fridays-dao-errado-hipsters-talks-1238)
+- [Entendendo Threading no Node.js com Rodrigo Branas](https://dev.to/khaosdoctor/entendendo-threading-no-node-js-com-rodrigo-branas-dlm)
+- [Atualização Automática de SO com Unattended Upgrades](https://dev.to/azure/atualizacao-automatica-de-so-com-unattended-upgrades-16e1)
 - [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
-- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
-- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
-- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
