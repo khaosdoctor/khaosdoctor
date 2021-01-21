@@ -48,11 +48,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Podcast #FalaDev - Vamos falar de Microsserviços](https://dev.to/khaosdoctor/podcast-faladev-vamos-falar-de-microsservicos-453i)
 - [Somos 4k! Muito obrigado!](https://dev.to/khaosdoctor/somos-4k-muito-obrigado-aij)
 - [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://dev.to/khaosdoctor/entenda-a-comunicacao-entre-servicos-com-grpc-no-dowhile-2020-56e8)
 - [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://dev.to/khaosdoctor/por-que-black-fridays-dao-errado-hipsters-talks-1238)
 - [Entendendo Threading no Node.js com Rodrigo Branas](https://dev.to/khaosdoctor/entendendo-threading-no-node-js-com-rodrigo-branas-dlm)
-- [Atualização Automática de SO com Unattended Upgrades](https://dev.to/azure/atualizacao-automatica-de-so-com-unattended-upgrades-16e1)
 <!-- DEVTO:END -->
 
 ### Medium
