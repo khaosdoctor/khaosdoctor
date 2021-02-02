@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Kubernetes sem Docker? – Entendendo OCI, CRI e o ecossistema de containers](https://blog.lsantos.dev/oci-cri-docker-ecossistema-de-containers/)
 - [Podcast #FalaDev - Vamos falar de Microsserviços](https://blog.lsantos.dev/podcast-faladev-vamos-falar-de-microsservicos/)
 - [Somos 4k! Muito obrigado!](https://blog.lsantos.dev/somos-4k-muito-obrigado/)
 - [gRPC com Node.js no EnterJS 2020](https://blog.lsantos.dev/grpc-com-node-js-no-enterjs-2020/)
 - [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://blog.lsantos.dev/entenda-a-comunicacao-entre-servicos-com-grpc-no-do-while-2020/)
-- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://blog.lsantos.dev/por-que-black-fridays-dao-errado/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
