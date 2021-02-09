@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Métricas customizadas com AKS](https://blog.lsantos.dev/metricas-customizadas-com-aks/)
 - [#ImersãoFullstack - Escalando infinitamente com Kubernetes](https://blog.lsantos.dev/aprenda-kubernetes-no-aks/)
 - [Controlando containers de dentro sua aplicação com ContainerD](https://blog.lsantos.dev/integrando-containers-na-sua-aplicacao-com-containerd/)
 - [Kubernetes sem Docker? – Entendendo OCI, CRI e o ecossistema de containers](https://blog.lsantos.dev/oci-cri-docker-ecossistema-de-containers/)
 - [Podcast #FalaDev - Vamos falar de Microsserviços](https://blog.lsantos.dev/podcast-faladev-vamos-falar-de-microsservicos/)
-- [Somos 4k! Muito obrigado!](https://blog.lsantos.dev/somos-4k-muito-obrigado/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
