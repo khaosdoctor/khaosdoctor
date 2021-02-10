@@ -48,11 +48,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Métricas customizadas com AKS](https://dev.to/azure/metricas-customizadas-com-aks-1f9f)
+- [#ImersãoFullstack - Escalando infinitamente com Kubernetes](https://dev.to/khaosdoctor/imersaofullstack-escalando-infinitamente-com-kubernetes-4g68)
+- [Controlando containers de dentro sua aplicação com ContainerD](https://dev.to/azure/controlando-containers-de-dentro-sua-aplicacao-com-containerd-201l)
 - [Kubernetes sem Docker? – Entendendo OCI, CRI e o ecossistema de containers](https://dev.to/azure/kubernetes-sem-docker-entendendo-oci-cri-e-o-ecossistema-de-containers-1coc)
 - [Podcast #FalaDev - Vamos falar de Microsserviços](https://dev.to/khaosdoctor/podcast-faladev-vamos-falar-de-microsservicos-453i)
-- [Somos 4k! Muito obrigado!](https://dev.to/khaosdoctor/somos-4k-muito-obrigado-aij)
-- [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://dev.to/khaosdoctor/entenda-a-comunicacao-entre-servicos-com-grpc-no-dowhile-2020-56e8)
-- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://dev.to/khaosdoctor/por-que-black-fridays-dao-errado-hipsters-talks-1238)
 <!-- DEVTO:END -->
 
 ### Medium
