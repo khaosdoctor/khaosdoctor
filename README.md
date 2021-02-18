@@ -48,11 +48,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Entendendo runtimes de containers](https://dev.to/azure/entendendo-runtimes-de-containers-f1f)
 - [Criando e gerenciando usuários no Kubernetes](https://dev.to/azure/criando-e-gerenciando-usuarios-no-kubernetes-ege)
 - [Métricas customizadas com AKS](https://dev.to/azure/metricas-customizadas-com-aks-1f9f)
 - [#ImersãoFullstack - Escalando infinitamente com Kubernetes](https://dev.to/khaosdoctor/imersaofullstack-escalando-infinitamente-com-kubernetes-4g68)
 - [Controlando containers de dentro sua aplicação com ContainerD](https://dev.to/azure/controlando-containers-de-dentro-sua-aplicacao-com-containerd-201l)
-- [Kubernetes sem Docker? – Entendendo OCI, CRI e o ecossistema de containers](https://dev.to/azure/kubernetes-sem-docker-entendendo-oci-cri-e-o-ecossistema-de-containers-1coc)
 <!-- DEVTO:END -->
 
 ### Medium
