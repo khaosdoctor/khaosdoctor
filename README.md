@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://blog.lsantos.dev/kubernetes-affinity-taints-tolerations/)
 - [Dando permissões a usuários com Kubernetes](https://blog.lsantos.dev/dando-permissoes-a-usuarios-com-kubernetes/)
 - [Entendendo runtimes de containers](https://blog.lsantos.dev/entendendo-runtimes-de-containers/)
 - [Criando e gerenciando usuários no Kubernetes](https://blog.lsantos.dev/criando-e-gerenciando-usuarios-no-kubernetes/)
 - [Métricas customizadas com AKS](https://blog.lsantos.dev/metricas-customizadas-com-aks/)
-- [#ImersãoFullstack - Escalando infinitamente com Kubernetes](https://blog.lsantos.dev/aprenda-kubernetes-no-aks/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
