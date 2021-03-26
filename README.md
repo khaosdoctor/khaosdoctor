@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://blog.lsantos.dev/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker/)
 - [Gerencie seus dotfiles de qualquer lugar com Git](https://blog.lsantos.dev/dotfiles-git/)
 - [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://blog.lsantos.dev/kubernetes-affinity-taints-tolerations/)
 - [Dando permissões a usuários com Kubernetes](https://blog.lsantos.dev/dando-permissoes-a-usuarios-com-kubernetes/)
 - [Entendendo runtimes de containers](https://blog.lsantos.dev/entendendo-runtimes-de-containers/)
-- [Criando e gerenciando usuários no Kubernetes](https://blog.lsantos.dev/criando-e-gerenciando-usuarios-no-kubernetes/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
