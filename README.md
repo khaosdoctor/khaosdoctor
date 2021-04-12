@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Integrando o Azure Active Directory no AKS](https://dev.to/azure/integrando-o-azure-active-directory-no-aks-48pa)
+- [Armazenando seus Helm Charts no Azure Container Registry](https://dev.to/azure/armazenando-seus-helm-charts-no-azure-container-registry-im1)
+- [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://dev.to/khaosdoctor/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker-5c3o)
 - [Gerencie seus dotfiles de qualquer lugar com Git](https://dev.to/azure/gerencie-seus-dotfiles-de-qualquer-lugar-com-git-46db)
 - [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://dev.to/azure/como-ter-controle-do-seu-cluster-kubernetes-com-affinity-e-tolerations-57od)
-- [Dando permissões a usuários com Kubernetes](https://dev.to/azure/dando-permissoes-a-usuarios-com-kubernetes-16pn)
-- [Entendendo runtimes de containers](https://dev.to/azure/entendendo-runtimes-de-containers-f1f)
-- [Criando e gerenciando usuários no Kubernetes](https://dev.to/azure/criando-e-gerenciando-usuarios-no-kubernetes-ege)
 <!-- DEVTO:END -->
 
 ### Medium
