@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [O guia completo do gRPC parte 1: O que é gRPC?](https://blog.lsantos.dev/guia-grpc-1/)
 - [Hospedando suas imagens Docker em seu próprio registry](https://blog.lsantos.dev/docker-registry-local/)
 - [Integrando o Azure Active Directory no AKS](https://blog.lsantos.dev/azure-ad-aks/)
 - [Armazenando seus Helm Charts no Azure Container Registry](https://blog.lsantos.dev/armazenando-seus-helm-charts-no-azure-container-registry/)
 - [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://blog.lsantos.dev/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker/)
-- [Gerencie seus dotfiles de qualquer lugar com Git](https://blog.lsantos.dev/dotfiles-git/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
