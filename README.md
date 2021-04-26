@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/_staticvoid)
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/lhs-santos/)
 
-My name is Lucas Santos (he/him). I'm a [Cloud Developer Advocate](https://developer.microsoft.com/en-us/advocates/lucas-santos) at @microsoft from Brazil! I'm working mostly with containers and Kubernetes along with Node.js and TypeScript! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a former [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) and an active [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos).
+My name is Lucas Santos (he/him). I'm a [Cloud Developer Advocate](https://developer.microsoft.com/en-us/advocates/lucas-santos) at @microsoft from Brazil! I'm working mostly with containers and Kubernetes along with Node.js and TypeScript! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a former [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) and an active [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos), and [Docker Captain](http://docker.com/captains).
 
 - :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
 
