@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [O guia completo do gRPC parte 1: O que é gRPC?](https://dev.to/azure/o-guia-completo-do-grpc-parte-1-o-que-e-grpc-3o42)
+- [Hospedando suas imagens Docker em seu próprio registry](https://dev.to/azure/hospedando-suas-imagens-docker-em-seu-proprio-registry-379b)
 - [Integrando o Azure Active Directory no AKS](https://dev.to/azure/integrando-o-azure-active-directory-no-aks-48pa)
 - [Armazenando seus Helm Charts no Azure Container Registry](https://dev.to/azure/armazenando-seus-helm-charts-no-azure-container-registry-im1)
 - [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://dev.to/khaosdoctor/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker-5c3o)
-- [Gerencie seus dotfiles de qualquer lugar com Git](https://dev.to/azure/gerencie-seus-dotfiles-de-qualquer-lugar-com-git-46db)
-- [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://dev.to/azure/como-ter-controle-do-seu-cluster-kubernetes-com-affinity-e-tolerations-57od)
 <!-- DEVTO:END -->
 
 ### Medium
