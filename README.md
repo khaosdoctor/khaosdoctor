@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Veja o que há de novo no Node.js 16](https://blog.lsantos.dev/veja-o-que-ha-de-novo-no-node-js-16/)
 - [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://blog.lsantos.dev/o-guia-do-grpc-2/)
 - [O que há de novo no beta do TypeScript 4.3](https://blog.lsantos.dev/o-que-ha-de-novo-no-beta-do-typescript-4-3/)
 - [O jeito mais simples de aprender Kubernetes é com a sua API](https://blog.lsantos.dev/drop-o-jeito-mais-simples-de-aprender-kubernetes/)
 - [O guia completo do gRPC parte 1: O que é gRPC?](https://blog.lsantos.dev/guia-grpc-1/)
-- [Hospedando suas imagens Docker em seu próprio registry](https://blog.lsantos.dev/docker-registry-local/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
