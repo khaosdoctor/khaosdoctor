@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://blog.lsantos.dev/o-guia-do-grpc-3/)
 - [Veja o que há de novo no Node.js 16](https://blog.lsantos.dev/veja-o-que-ha-de-novo-no-node-js-16/)
 - [Não só de Docker vivem os containers](https://blog.lsantos.dev/nao-so-de-docker-vivem-os-containers/)
 - [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://blog.lsantos.dev/o-guia-do-grpc-2/)
 - [O que é Open Source?](https://blog.lsantos.dev/o-que-e-open-source/)
-- [O que há de novo no beta do TypeScript 4.3](https://blog.lsantos.dev/o-que-ha-de-novo-no-beta-do-typescript-4-3/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
