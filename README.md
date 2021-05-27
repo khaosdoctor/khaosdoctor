@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [O guia completo do gRPC parte 1: O que é gRPC?](https://dev.to/azure/o-guia-completo-do-grpc-parte-1-o-que-e-grpc-3o42)
-- [Hospedando suas imagens Docker em seu próprio registry](https://dev.to/azure/hospedando-suas-imagens-docker-em-seu-proprio-registry-379b)
-- [Integrando o Azure Active Directory no AKS](https://dev.to/azure/integrando-o-azure-active-directory-no-aks-48pa)
-- [Armazenando seus Helm Charts no Azure Container Registry](https://dev.to/azure/armazenando-seus-helm-charts-no-azure-container-registry-im1)
-- [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://dev.to/khaosdoctor/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker-5c3o)
+- [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://dev.to/azure/o-guia-completo-do-grpc-parte-3-tipos-em-tudo-com-typescript-3in5)
+- [Veja o que há de novo no Node.js 16](https://dev.to/khaosdoctor/veja-o-que-ha-de-novo-no-node-js-16-1mb5)
+- [Não só de Docker vivem os containers](https://dev.to/khaosdoctor/nao-so-de-docker-vivem-os-containers-hl2)
+- [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://dev.to/azure/o-guia-completo-do-grpc-parte-2-maos-a-obra-com-javascript-10h1)
+- [O que é Open Source?](https://dev.to/khaosdoctor/o-que-e-open-source-1h3p)
 <!-- DEVTO:END -->
 
 ### Medium
