@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [O Guia Completo do gRPC parte 4: Streams](https://blog.lsantos.dev/o-guia-do-grpc-4/)
 - [Apresentando o KEDA HTTP Add-on](https://blog.lsantos.dev/apresentando-o-keda-http-add-on/)
 - [Iniciando com ECMAScript Modules](https://blog.lsantos.dev/os-ecmascript-modules-estao-aqui/)
 - [Criando ambientes de teste dinamicamente com GitHub Actions](https://blog.lsantos.dev/ambientes-dinamicos-helm-actions/)
 - [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://blog.lsantos.dev/o-guia-do-grpc-3/)
-- [Veja o que há de novo no Node.js 16](https://blog.lsantos.dev/veja-o-que-ha-de-novo-no-node-js-16/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
