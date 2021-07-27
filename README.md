@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Criando ambientes de teste dinamicamente com GitHub Actions](https://dev.to/khaosdoctor/criando-ambientes-de-teste-dinamicamente-com-github-actions-2p6k)
-- [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://dev.to/azure/o-guia-completo-do-grpc-parte-3-tipos-em-tudo-com-typescript-3in5)
-- [Veja o que há de novo no Node.js 16](https://dev.to/khaosdoctor/veja-o-que-ha-de-novo-no-node-js-16-1mb5)
-- [Não só de Docker vivem os containers](https://dev.to/khaosdoctor/nao-so-de-docker-vivem-os-containers-hl2)
-- [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://dev.to/azure/o-guia-completo-do-grpc-parte-2-maos-a-obra-com-javascript-10h1)
+- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://dev.to/azure/o-es2021-foi-aprovado-confira-a-lista-de-novidades-no-javascript-e8c)
+- [O Guia Completo do gRPC parte 4: Streams](https://dev.to/azure/o-guia-completo-do-grpc-parte-4-streams-cfc)
+- [Apresentando o KEDA HTTP Add-on](https://dev.to/azure/apresentando-o-keda-http-add-on-5d15)
+- [Iniciando com ECMAScript Modules](https://dev.to/azure/iniciando-com-ecmascript-modules-4fgn)
+- [Criando ambientes de teste dinamicamente com GitHub Actions](https://dev.to/azure/criando-ambientes-de-teste-dinamicamente-com-github-actions-2p6k)
 <!-- DEVTO:END -->
 
 ### Medium
