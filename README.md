@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Criando ambientes de teste dinamicamente com GitHub Actions](https://dev.to/khaosdoctor/criando-ambientes-de-teste-dinamicamente-com-github-actions-2p6k)
 - [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://dev.to/azure/o-guia-completo-do-grpc-parte-3-tipos-em-tudo-com-typescript-3in5)
 - [Veja o que há de novo no Node.js 16](https://dev.to/khaosdoctor/veja-o-que-ha-de-novo-no-node-js-16-1mb5)
 - [Não só de Docker vivem os containers](https://dev.to/khaosdoctor/nao-so-de-docker-vivem-os-containers-hl2)
 - [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://dev.to/azure/o-guia-completo-do-grpc-parte-2-maos-a-obra-com-javascript-10h1)
-- [O que é Open Source?](https://dev.to/khaosdoctor/o-que-e-open-source-1h3p)
 <!-- DEVTO:END -->
 
 ### Medium
