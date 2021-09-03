@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Conheça o SparkPlug, o novo compilador de JS do V8](https://dev.to/azure/conheca-o-sparkplug-o-novo-compilador-de-js-do-v8-4mk4)
 - [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://dev.to/azure/o-es2021-foi-aprovado-confira-a-lista-de-novidades-no-javascript-e8c)
 - [O Guia Completo do gRPC parte 4: Streams](https://dev.to/azure/o-guia-completo-do-grpc-parte-4-streams-cfc)
 - [Apresentando o KEDA HTTP Add-on](https://dev.to/azure/apresentando-o-keda-http-add-on-5d15)
 - [Iniciando com ECMAScript Modules](https://dev.to/azure/iniciando-com-ecmascript-modules-4fgn)
-- [Criando ambientes de teste dinamicamente com GitHub Actions](https://dev.to/azure/criando-ambientes-de-teste-dinamicamente-com-github-actions-2p6k)
 <!-- DEVTO:END -->
 
 ### Medium
