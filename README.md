@@ -72,8 +72,8 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
 
 <a href="https://lsantos.dev">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=khaosdoctor&count_private=true&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaosdoctor&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://lsantos.dev">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaosdoctor&theme=github_dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaosdoctor&theme=github_dark&layout=compact" />
 </a>
