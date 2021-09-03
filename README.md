@@ -1,4 +1,4 @@
-<div style="background-image: url('https://drive.google.com/uc?export=view&id=1mnRLCY2khHoF1FZ2ZQNMmw0AH1DL7yec');height: 200px;background-size: cover;background-position: center center;background-repeat: no-repeat;"></div>
+<img src="https://drive.google.com/uc?export=view&id=1mnRLCY2khHoF1FZ2ZQNMmw0AH1DL7yec" />
 
 ## Hi there 👋
 
