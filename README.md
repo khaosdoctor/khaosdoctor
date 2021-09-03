@@ -68,7 +68,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 
 ## ⚡ Fun facts
 
-- 📸 I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
+- 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
 
 <a href="https://lsantos.dev">
