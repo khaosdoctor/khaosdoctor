@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1mnRLCY2khHoF1FZ2ZQNMmw0AH1DL7yec" />
+<img src="https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/Screen%20Shot%202021-09-03%20at%2019.26.35.png" />
 
 ## Hi there 👋
 
@@ -70,3 +70,10 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 
 - 📸 I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
+
+<a href="https://lsantos.dev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=khaosdoctor&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://lsantos.dev">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaosdoctor&theme=github_dark&layout=compact" />
+</a>
