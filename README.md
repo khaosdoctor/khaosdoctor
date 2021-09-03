@@ -1,9 +1,9 @@
-<img src='https://drive.google.com/uc?export=view&id=1mnRLCY2khHoF1FZ2ZQNMmw0AH1DL7yec' />
+<div style="background-image: url('https://drive.google.com/uc?export=view&id=1mnRLCY2khHoF1FZ2ZQNMmw0AH1DL7yec');height: 200px;background-size: cover;background-position: center center;background-repeat: no-repeat;"></div>
 
 ## Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/_staticvoid)
-[![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/lhs-santos/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.lsantos.dev)
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.lsantos.dev)
 
 My name is Lucas Santos (he/him). I'm a [Cloud Developer Advocate](https://developer.microsoft.com/en-us/advocates/lucas-santos) at @microsoft from Brazil! I'm working mostly with containers and Kubernetes along with Node.js and TypeScript! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a former [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) and an active [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos), and [Docker Captain](http://docker.com/captains).
 
@@ -19,9 +19,9 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 - 📝 I have a blog at [https://blog.lsantos.dev](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
   - I also write on [Medium](https://medium.com/@khaosdoctor), [FreeCodeCamp](https://www.freecodecamp.org/news/author/_staticvoid), and [Dev.to](https://dev.to/khaosdoctor)
   - You can see my latest posts [down below](#latest-blog-posts)!
-- 🐦 [@_staticvoid](https://twitter.com/_staticvoid)
-- 💬 [Telegram](https://t.me/lhs_santoss)
-- 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCki-WnBzwzpvbBDk4swJniQ?sub_confirmation=1)
+- 🐦 [@_staticvoid](https://twitter.lsantos.dev)
+- 💬 [Telegram](https://telegram.lsantos.dev)
+- 📹 [Subscribe on YouTube](https://youtube.lsantos.dev)
 - 📧 You can also send me an [email](mailto:hello@lsantos.dev)
 
 ## 📝 Latest Blog Posts
@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Conheça o SparkPlug, o novo compilador de JS do V8](https://dev.to/azure/conheca-o-sparkplug-o-novo-compilador-de-js-do-v8-4mk4)
 - [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://dev.to/azure/o-es2021-foi-aprovado-confira-a-lista-de-novidades-no-javascript-e8c)
 - [O Guia Completo do gRPC parte 4: Streams](https://dev.to/azure/o-guia-completo-do-grpc-parte-4-streams-cfc)
 - [Apresentando o KEDA HTTP Add-on](https://dev.to/azure/apresentando-o-keda-http-add-on-5d15)
 - [Iniciando com ECMAScript Modules](https://dev.to/azure/iniciando-com-ecmascript-modules-4fgn)
+- [Criando ambientes de teste dinamicamente com GitHub Actions](https://dev.to/azure/criando-ambientes-de-teste-dinamicamente-com-github-actions-2p6k)
 <!-- DEVTO:END -->
 
 ### Medium
@@ -68,6 +68,5 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 
 ## ⚡ Fun facts
 
-- I homebrew and I love beer, if you want to buy me a beer for my work (which will always be free) check out the [sponsor link](https://blog.lsantos.dev/doacoes/?utm_source=github&utm_medium=github_readme&utm_campaign=readme_link) 🍻
 - 📸 I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
