@@ -32,10 +32,10 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 
 <!-- BLOG:START -->
 - [O que há de novo no TypeScript 4.4](https://blog.lsantos.dev/typescript-44/)
-- [Removendo itens duplicados no JavaScript ES6](https://blog.lsantos.dev/removendo-itens-duplicados-no-javascript-es6/)
+- [Giro de Notícias - Agosto 2021](https://blog.lsantos.dev/giro-de-noticias-agosto-2021/)
 - [Conheça o SparkPlug, o novo compilador de JS do V8](https://blog.lsantos.dev/v8-sparkplug/)
+- [Giro de Notícias - Julho 2021](https://blog.lsantos.dev/giro-de-noticias-julho-2021/)
 - [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://blog.lsantos.dev/es2021/)
-- [O Guia Completo do gRPC parte 4: Streams](https://blog.lsantos.dev/o-guia-do-grpc-4/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
