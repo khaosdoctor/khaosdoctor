@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Temporal: a nova forma de se trabalhar com datas em JavaScript](https://blog.lsantos.dev/temporal-api/)
 - [O que há de novo no TypeScript 4.4](https://blog.lsantos.dev/typescript-44/)
 - [Giro de Notícias - Agosto 2021](https://blog.lsantos.dev/giro-de-noticias-agosto-2021/)
 - [Conheça o SparkPlug, o novo compilador de JS do V8](https://blog.lsantos.dev/v8-sparkplug/)
 - [Giro de Notícias - Julho 2021](https://blog.lsantos.dev/giro-de-noticias-julho-2021/)
-- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://blog.lsantos.dev/es2021/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
