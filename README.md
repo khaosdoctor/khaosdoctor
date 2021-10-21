@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [10 coisas que você não sabia que o NPM era capaz de fazer](https://blog.lsantos.dev/npm-10-comandos/)
 - [5 coisas pra você saber antes de palestrar: Call For Papers](https://blog.lsantos.dev/5-dicas-de-cfp/)
 - [Temporal: a nova forma de se trabalhar com datas em JavaScript](https://blog.lsantos.dev/temporal-api/)
 - [O que há de novo no TypeScript 4.4](https://blog.lsantos.dev/typescript-44/)
 - [Giro de Notícias - Agosto 2021](https://blog.lsantos.dev/giro-de-noticias-agosto-2021/)
-- [Conheça o SparkPlug, o novo compilador de JS do V8](https://blog.lsantos.dev/v8-sparkplug/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
