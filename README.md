@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Por que escrever é importante pra sua carreira?](https://blog.lsantos.dev/por-que-escrever-e-importante-pra-sua-carreira/)
 - [O que eu aprendi depois de 150 palestras](https://blog.lsantos.dev/150-palestras/)
 - [10 coisas que você não sabia que o NPM era capaz de fazer](https://blog.lsantos.dev/npm-10-comandos/)
 - [5 coisas pra você saber antes de palestrar: Call For Papers](https://blog.lsantos.dev/5-dicas-de-cfp/)
 - [Temporal: a nova forma de se trabalhar com datas em JavaScript](https://blog.lsantos.dev/temporal-api/)
-- [O que há de novo no TypeScript 4.4](https://blog.lsantos.dev/typescript-44/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
