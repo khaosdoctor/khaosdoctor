@@ -49,11 +49,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Temporal: a nova forma de se trabalhar com datas em JavaScript](https://dev.to/azure/temporal-a-nova-forma-de-se-trabalhar-com-datas-em-javascript-3mfl)
-- [O que há de novo no TypeScript 4.4](https://dev.to/azure/o-que-ha-de-novo-no-typescript-4-4-14cj)
-- [Conheça o SparkPlug, o novo compilador de JS do V8](https://dev.to/azure/conheca-o-sparkplug-o-novo-compilador-de-js-do-v8-4mk4)
-- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://dev.to/azure/o-es2021-foi-aprovado-confira-a-lista-de-novidades-no-javascript-e8c)
-- [O Guia Completo do gRPC parte 4: Streams](https://dev.to/azure/o-guia-completo-do-grpc-parte-4-streams-cfc)
+- [As más práticas mais comuns no JavaScript](https://dev.to/khaosdoctor/as-mas-praticas-mais-comuns-no-javascript-2jcm)
+- [Agrupamento com Array.prototype.groupBy](https://dev.to/khaosdoctor/agrupamento-com-arrayprototypegroupby-490c)
+- [Negociação salarial para devs - dicas e truques](https://dev.to/khaosdoctor/negociacao-salarial-para-devs-dicas-e-truques-3p2k)
+- [Por que escrever é importante pra sua carreira?](https://dev.to/khaosdoctor/por-que-escrever-e-importante-pra-sua-carreira-1910)
+- [O que eu aprendi depois de 150 palestras](https://dev.to/khaosdoctor/o-que-eu-aprendi-depois-de-150-palestras-cpp)
 <!-- DEVTO:END -->
 
 ### Medium
