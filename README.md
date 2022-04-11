@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Compartilhamento de Tipos com TypeScript](https://blog.lsantos.dev/compatilhamento-de-tipos-com-typescript/)
 - [Pipeline operators no JavaScript](https://blog.lsantos.dev/pipeline-operators-javascript/)
 - [JavaScript com tipos do TypeScript? Entenda tudo sobre a nova proposta!](https://blog.lsantos.dev/js-tipos-proposal/)
 - [Conheça os novos tipos de dados do JavaScript](https://blog.lsantos.dev/novos-tipos-js/)
 - [Entendendo timers/promises e AbortControllers no Node.js](https://blog.lsantos.dev/timers-abort-controllers/)
-- [As más práticas mais comuns no JavaScript](https://blog.lsantos.dev/mas-praticas-javascript/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
