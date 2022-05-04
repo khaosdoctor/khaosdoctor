@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
 - [O que é e para que serve o Infer no TypeScript?](https://blog.lsantos.dev/infer-typescript/)
 - [Compartilhamento de Tipos com TypeScript](https://blog.lsantos.dev/compatilhamento-de-tipos-com-typescript/)
 - [Pipeline operators no JavaScript](https://blog.lsantos.dev/pipeline-operators-javascript/)
 - [JavaScript com tipos do TypeScript? Entenda tudo sobre a nova proposta!](https://blog.lsantos.dev/js-tipos-proposal/)
-- [Conheça os novos tipos de dados do JavaScript](https://blog.lsantos.dev/novos-tipos-js/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
