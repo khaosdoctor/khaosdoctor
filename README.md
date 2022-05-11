@@ -7,6 +7,7 @@
 
 My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently working in Sweden at [@klarna](https://github.com/klarna)! I'm working mostly with containers and Kubernetes along with Node.js and TypeScript! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a former [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) and an active [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos), and [Docker Captain](http://docker.com/captains).
 
+- 📬 I keep a **newsletter** filled with awesome stuff at [https://news.lsantos.dev](https://news.lsantos.dev) and would love if you joined it!
 - :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
 
 I'm also an avid contributor to open source and love to create and develop new projects and ideas! If you want to work with me just drop me a line in any of my social networks below!
