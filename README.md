@@ -32,11 +32,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Tudo o que você precisa saber sobre o novo test runner do Node.js](https://blog.lsantos.dev/node-test-runner/)
 - [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
 - [O que é e para que serve o Infer no TypeScript?](https://blog.lsantos.dev/infer-typescript/)
 - [Compartilhamento de Tipos com TypeScript](https://blog.lsantos.dev/compatilhamento-de-tipos-com-typescript/)
 - [Pipeline operators no JavaScript](https://blog.lsantos.dev/pipeline-operators-javascript/)
-- [JavaScript com tipos do TypeScript? Entenda tudo sobre a nova proposta!](https://blog.lsantos.dev/js-tipos-proposal/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
