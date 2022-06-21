@@ -32,11 +32,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Código mais seguro com Shadow Realms no JavaScript](https://blog.lsantos.dev/shadow-realms/)
 - [O que há de novo no TypeScript 4.7](https://blog.lsantos.dev/typescript-47/)
 - [LS -news #1: Tudo sobre o novo Node.js](https://blog.lsantos.dev/ls-news-1/)
 - [Tudo o que você precisa saber sobre o novo test runner do Node.js](https://blog.lsantos.dev/node-test-runner/)
 - [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
-- [O que é e para que serve o Infer no TypeScript?](https://blog.lsantos.dev/infer-typescript/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
