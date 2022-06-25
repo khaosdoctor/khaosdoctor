@@ -2,34 +2,21 @@
 
 ## Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.lsantos.dev)
-[![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.lsantos.dev)
+[![Twitter __staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.lsantos.dev)](https://twitter.lsantos.dev)
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://www.linkedin.lsantos.dev)
+[![Youtube Lucas Santos](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.lsantos.dev)](https://youtube.lsantos.dev)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@lsantos.dev)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
+[![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
 
 My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently working in Sweden at [@klarna](https://github.com/klarna)! I'm working mostly with containers and Kubernetes along with Node.js and TypeScript! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259), [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos), and [Docker Captain](http://docker.com/captains).
 
 - 📬 I keep a **newsletter** filled with awesome stuff at [https://news.lsantos.dev](https://news.lsantos.dev) and would love if you joined it!
 - :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
 
-I'm also an avid contributor to open source and love to create and develop new projects and ideas! If you want to work with me just drop me a line in any of my social networks below!
-
-## 📫 How to reach me
-
-I love to talk to people and discuss tech! You can reach me out on any channels below!
-
-- 🔗 I have a personal website at [https://lsantos.dev](https://lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
-- 📝 I have a blog at [https://blog.lsantos.dev](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
-  - I also write on [Medium](https://medium.com/@khaosdoctor), [FreeCodeCamp](https://www.freecodecamp.org/news/author/_staticvoid), and [Dev.to](https://dev.to/khaosdoctor)
-  - You can see my latest posts [down below](#latest-blog-posts)!
-- 🐦 [@_staticvoid](https://twitter.lsantos.dev)
-- 💬 [Telegram](https://telegram.lsantos.dev)
-- 📹 [Subscribe on YouTube](https://youtube.lsantos.dev)
-- 📧 You can also send me an [email](mailto:hello@lsantos.dev)
-
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Dev.to](https://dev.to/khaosdoctor):
-
-### My Blog
+### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
 - [Código mais seguro com Shadow Realms no JavaScript](https://blog.lsantos.dev/shadow-realms/)
@@ -39,7 +26,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 - [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
 <!-- BLOG:END -->
 
-### FreeCodeCamp
+### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://medium.com/@khaosdoctor)
 
 <!-- FCC:START -->
 - [What is a Helm Chart? A Tutorial for Kubernetes Beginners](https://www.freecodecamp.org/news/what-is-a-helm-chart-tutorial-for-kubernetes-beginners/)
@@ -47,7 +34,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 - [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
 <!-- FCC:END -->
 
-### Dev Community
+### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
 - [Migrating a legacy application from MongoDB to HarperDB](https://dev.to/khaosdoctor/migrating-a-legacy-application-from-mongodb-to-harperdb-4cca)
@@ -57,7 +44,7 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 - [Por que escrever é importante pra sua carreira?](https://dev.to/khaosdoctor/por-que-escrever-e-importante-pra-sua-carreira-1910)
 <!-- DEVTO:END -->
 
-### Medium
+### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
 
 <!-- MEDIUM:START -->
 - [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
