@@ -26,7 +26,7 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 - [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
 <!-- BLOG:END -->
 
-### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://medium.com/@khaosdoctor)
+### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
 
 <!-- FCC:START -->
 - [What is a Helm Chart? A Tutorial for Kubernetes Beginners](https://www.freecodecamp.org/news/what-is-a-helm-chart-tutorial-for-kubernetes-beginners/)
