@@ -37,11 +37,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
-- [Migrating a legacy application from MongoDB to HarperDB](https://dev.to/khaosdoctor/migrating-a-legacy-application-from-mongodb-to-harperdb-4cca)
-- [As más práticas mais comuns no JavaScript](https://dev.to/khaosdoctor/as-mas-praticas-mais-comuns-no-javascript-2jcm)
-- [Agrupamento com Array.prototype.groupBy](https://dev.to/khaosdoctor/agrupamento-com-arrayprototypegroupby-490c)
-- [Negociação salarial para devs - dicas e truques](https://dev.to/khaosdoctor/negociacao-salarial-para-devs-dicas-e-truques-3p2k)
-- [Por que escrever é importante pra sua carreira?](https://dev.to/khaosdoctor/por-que-escrever-e-importante-pra-sua-carreira-1910)
+- [Using HarperDB with Kubernetes](https://dev.to/_staticvoid/using-harperdb-with-kubernetes-2pf6)
+- [Por que você deveria repensar o uso do Date.now](https://dev.to/_staticvoid/por-que-voce-deveria-repensar-o-uso-do-datenow-2g39)
+- [Código mais seguro com Shadow Realms no JavaScript](https://dev.to/_staticvoid/codigo-mais-seguro-com-shadow-realms-no-javascript-3p9e)
+- [O que há de novo no TypeScript 4.7](https://dev.to/_staticvoid/o-que-ha-de-novo-no-typescript-47-28bl)
+- [Tudo o que você precisa saber sobre o novo test runner do Node.js](https://dev.to/_staticvoid/tudo-o-que-voce-precisa-saber-sobre-o-novo-test-runner-do-nodejs-1i11)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
