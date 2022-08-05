@@ -37,11 +37,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [As 5 coisas mais difíceis em computação](https://dev.to/_staticvoid/as-5-coisas-mais-dificeis-em-computacao-3kf9)
+- [As novidades do JavaScript em 2022](https://dev.to/_staticvoid/as-novidades-do-javascript-em-2022-2o9n)
+- [Usando HarperDB com Kubernetes](https://dev.to/_staticvoid/usando-harperdb-com-kubernetes-4bg2)
 - [Using HarperDB with Kubernetes](https://dev.to/_staticvoid/using-harperdb-with-kubernetes-2pf6)
 - [Por que você deveria repensar o uso do Date.now](https://dev.to/_staticvoid/por-que-voce-deveria-repensar-o-uso-do-datenow-2g39)
-- [Código mais seguro com Shadow Realms no JavaScript](https://dev.to/_staticvoid/codigo-mais-seguro-com-shadow-realms-no-javascript-3p9e)
-- [O que há de novo no TypeScript 4.7](https://dev.to/_staticvoid/o-que-ha-de-novo-no-typescript-47-28bl)
-- [Tudo o que você precisa saber sobre o novo test runner do Node.js](https://dev.to/_staticvoid/tudo-o-que-voce-precisa-saber-sobre-o-novo-test-runner-do-nodejs-1i11)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
