@@ -37,11 +37,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [Tudo sobre os novos métodos de arrays em JavaScript](https://dev.to/_staticvoid/tudo-sobre-os-novos-metodos-de-arrays-em-javascript-544g)
 - [O que são as "do expressions" no JavaScript?](https://dev.to/_staticvoid/o-que-sao-as-do-expressions-no-javascript-42k9)
 - [Usando tokens JWT de forma segura](https://dev.to/_staticvoid/usando-tokens-jwt-de-forma-segura-18d4)
 - [As 5 coisas mais difíceis em computação](https://dev.to/_staticvoid/as-5-coisas-mais-dificeis-em-computacao-3kf9)
 - [As novidades do JavaScript em 2022](https://dev.to/_staticvoid/as-novidades-do-javascript-em-2022-2o9n)
-- [Usando HarperDB com Kubernetes](https://dev.to/_staticvoid/usando-harperdb-com-kubernetes-4bg2)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
