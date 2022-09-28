@@ -19,11 +19,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [LS -news #5](https://blog.lsantos.dev/ls-news-5/)
 - [Tudo sobre os novos métodos de arrays em JavaScript](https://blog.lsantos.dev/array-es13/)
 - [O que são as &quot;do expressions&quot; no JavaScript?](https://blog.lsantos.dev/do-expressions/)
 - [LS -news #4](https://blog.lsantos.dev/ls-news-4/)
 - [O que esperar do JavaScript em 2023](https://blog.lsantos.dev/o-futuro-do-js/)
-- [Usando tokens JWT de forma segura](https://blog.lsantos.dev/jwt-seguro/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
