@@ -26,7 +26,7 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://blog.lsantos.dev/author/lucas/rss/"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: FCC
-          feed_list: "https://www.freecodecamp.org/news/author/_staticvoid/rss"
+#      - uses: gautamkrishnar/blog-post-workflow@master
+#        with:
+#          comment_tag_name: FCC
+#          feed_list: "https://www.freecodecamp.org/news/author/_staticvoid/rss"
