@@ -37,11 +37,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [Simple Multi-Node Data Replication with HarperDB Pub/Sub](https://dev.to/_staticvoid/simple-multi-node-data-replication-with-harperdb-pubsub-4jch)
+- [CLIs mais simples com Util.parseArgs](https://dev.to/_staticvoid/clis-mais-simples-com-utilparseargs-h1g)
+- [Tudo sobre o novo operador satisfies no TypeScript](https://dev.to/_staticvoid/tudo-sobre-o-novo-operador-satisfies-no-typescript-7ja)
+- [Criando bots para o Telegram com o GrammY](https://dev.to/_staticvoid/criando-bots-para-o-telegram-com-o-grammy-3a88)
 - [Tudo sobre os novos métodos de arrays em JavaScript](https://dev.to/_staticvoid/tudo-sobre-os-novos-metodos-de-arrays-em-javascript-544g)
-- [O que são as "do expressions" no JavaScript?](https://dev.to/_staticvoid/o-que-sao-as-do-expressions-no-javascript-42k9)
-- [Usando tokens JWT de forma segura](https://dev.to/_staticvoid/usando-tokens-jwt-de-forma-segura-18d4)
-- [As 5 coisas mais difíceis em computação](https://dev.to/_staticvoid/as-5-coisas-mais-dificeis-em-computacao-3kf9)
-- [As novidades do JavaScript em 2022](https://dev.to/_staticvoid/as-novidades-do-javascript-em-2022-2o9n)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
