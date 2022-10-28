@@ -19,11 +19,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [LS -news #6](https://blog.lsantos.dev/ls-news-6/)
 - [CLIs mais simples com Util.parseArgs](https://blog.lsantos.dev/parseargs/)
 - [Tudo sobre o novo operador satisfies no TypeScript](https://blog.lsantos.dev/ts-satisfies/)
 - [Criando bots para o Telegram com o GrammY](https://blog.lsantos.dev/telegram-grammy-bot/)
 - [LS -news #5](https://blog.lsantos.dev/ls-news-5/)
-- [Tudo sobre os novos métodos de arrays em JavaScript](https://blog.lsantos.dev/array-es13/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
