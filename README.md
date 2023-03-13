@@ -37,11 +37,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
-- [Simple Multi-Node Data Replication with HarperDB Pub/Sub](https://dev.to/_staticvoid/simple-multi-node-data-replication-with-harperdb-pubsub-4jch)
-- [CLIs mais simples com Util.parseArgs](https://dev.to/_staticvoid/clis-mais-simples-com-utilparseargs-h1g)
-- [Tudo sobre o novo operador satisfies no TypeScript](https://dev.to/_staticvoid/tudo-sobre-o-novo-operador-satisfies-no-typescript-7ja)
-- [Criando bots para o Telegram com o GrammY](https://dev.to/_staticvoid/criando-bots-para-o-telegram-com-o-grammy-3a88)
-- [Tudo sobre os novos métodos de arrays em JavaScript](https://dev.to/_staticvoid/tudo-sobre-os-novos-metodos-de-arrays-em-javascript-544g)
+- [O que é a nova propostas de sequências com o Iterator.range no JavaScript](https://dev.to/_staticvoid/o-que-e-a-nova-propostas-de-sequencias-com-o-iteratorrange-no-javascript-24lm)
+- [O que há de novo no TypeScript 5.0](https://dev.to/_staticvoid/o-que-ha-de-novo-no-typescript-50-4e41)
+- [O que são erros e para que serve o error.cause no JavaScript?](https://dev.to/_staticvoid/o-que-sao-erros-e-para-que-serve-o-errorcause-no-javascript-1hod)
+- [Para que servem os generators no JS?](https://dev.to/_staticvoid/para-que-servem-os-generators-no-js-8g1)
+- [Vamos falar sobre o Deno](https://dev.to/_staticvoid/vamos-falar-sobre-o-deno-b1n)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
