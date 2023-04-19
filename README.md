@@ -19,11 +19,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [O Deno agora tem um banco de dados nativo](https://blog.lsantos.dev/deno-kv/)
 - [Por essa surpresa você não esperava](https://blog.lsantos.dev/por-essa-surpresa-voce-nao-esperava/)
 - [Programação de tipos - #SemanaTS dia 5](https://blog.lsantos.dev/programacao-orientada-a-tipos-semanats-dia-5/)
 - [Técnicas avançadas com TypeScript - #SemanaTS dia 4](https://blog.lsantos.dev/tecnicas-avancadas-com-typescript-semanats-dia-4/)
 - [Boas e más práticas com TypeScript - #SemanaTS dia 3](https://blog.lsantos.dev/boas-praticas-ts-semana-ts-3/)
-- [Tipos externos e pacotes de declarações - #Semana TS dia 2](https://blog.lsantos.dev/semana-ts-2/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
