@@ -19,8 +19,8 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
-- [ls -news #13: Polêmicas e segurança](https://blog.lsantos.dev/ls-news-13/)
 - [O que é type-testing com TypeScript? É um anti-pattern? Vale a pena?](https://blog.lsantos.dev/type-testing/)
+- [ls -news #13: Polêmicas e segurança](https://blog.lsantos.dev/ls-news-13/)
 - [O que é o NPM package provenance?](https://blog.lsantos.dev/npm-provenance/)
 - [O que o ECMAScript 2023 está trazendo de novo?](https://blog.lsantos.dev/ecma-2023/)
 - [ls -news #12 - Node 20 está ai!](https://blog.lsantos.dev/ls-news-11-2/)
