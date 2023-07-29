@@ -19,11 +19,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [A Formação TS chegou! E você é especial!](https://blog.lsantos.dev/fts-fundadores-news/)
 - [ls -news #15](https://blog.lsantos.dev/ls-news-15/)
 - [Operações atômicas com Deno KV](https://blog.lsantos.dev/kv-atomic-ops/)
 - [Você já conhece o Deno KV?](https://blog.lsantos.dev/deno-kv-beta/)
 - [Tudo sobre o novo Docker compose file watch](https://blog.lsantos.dev/docker-compose-watch/)
-- [ls -news #14](https://blog.lsantos.dev/ls-news-14/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
