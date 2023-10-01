@@ -13,6 +13,7 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 
 - 📬 I keep a **newsletter** filled with awesome stuff at [https://news.lsantos.dev](https://news.lsantos.dev) and would love if you joined it!
 - :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
+- I'm also working on my [TypeScript complete course](https://formacaots.com.br), it's also in Portuguese and I'm working *really* hard to make it the best course on the planet! Please share if you like it!
 
 ## 📝 Latest Blog Posts
 
