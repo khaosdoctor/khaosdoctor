@@ -20,11 +20,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [Como rodar TypeScript nativamente no Node.js com TSX](https://blog.lsantos.dev/tsx-loader/)
 - [LS -news #17:](https://blog.lsantos.dev/ls-news-17/)
 - [A novidades do TS 5.3](https://blog.lsantos.dev/ts-53-alpha/)
 - [ls -news #16: Novidades no TS 5.2 e nova funcionalidade do Node.js](https://blog.lsantos.dev/ls-news-16/)
 - [Você nunca vai terminar nada - Lições de uma década de erros](https://blog.lsantos.dev/ilusao-de-controle/)
-- [A nova funcionalidade do TS 5.2: conheça o Using](https://blog.lsantos.dev/ts-using/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
