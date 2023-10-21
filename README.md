@@ -38,11 +38,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [Definindo métodos estáticos em interfaces com TypeScript](https://dev.to/_staticvoid/definindo-metodos-estaticos-em-interfaces-com-typescript-43l8)
+- [Acessando arquivos .env nativamente com Node.js](https://dev.to/_staticvoid/acessando-arquivos-env-nativamente-com-nodejs-99g)
 - [Best practices for HarperDB projects using TypeScript](https://dev.to/_staticvoid/best-practices-for-harperdb-projects-using-typescript-44ak)
-- [O que é a nova propostas de sequências com o Iterator.range no JavaScript](https://dev.to/_staticvoid/o-que-e-a-nova-propostas-de-sequencias-com-o-iteratorrange-no-javascript-24lm)
-- [O que há de novo no TypeScript 5.0](https://dev.to/_staticvoid/o-que-ha-de-novo-no-typescript-50-4e41)
-- [O que são erros e para que serve o error.cause no JavaScript?](https://dev.to/_staticvoid/o-que-sao-erros-e-para-que-serve-o-errorcause-no-javascript-1hod)
-- [Para que servem os generators no JS?](https://dev.to/_staticvoid/para-que-servem-os-generators-no-js-8g1)
+- [Como rodar TypeScript nativamente no Node.js com TSX](https://dev.to/_staticvoid/como-rodar-typescript-nativamente-no-nodejs-com-tsx-4993)
+- [A novidades do TS 5.3](https://dev.to/_staticvoid/a-novidades-do-ts-53-2bmd)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
