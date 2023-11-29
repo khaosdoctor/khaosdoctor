@@ -38,11 +38,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [Accessing .env files natively with Node.js](https://dev.to/_staticvoid/accessing-env-files-natively-with-nodejs-44hf)
+- [How to run TypeScript natively in Node.js with TSX](https://dev.to/_staticvoid/how-to-run-typescript-natively-in-nodejs-with-tsx-3a0c)
+- [A versão 21.2 do Node é a mais especial de todas!](https://dev.to/_staticvoid/a-versao-212-do-node-e-a-mais-especial-de-todas-5boh)
 - [Novidades do Node 21!](https://dev.to/_staticvoid/novidades-do-node-21-5ep1)
 - [Novidades do TS 5.3 - Beta!](https://dev.to/_staticvoid/novidades-do-ts-53-beta-2faf)
-- [Defining static methods in interfaces with TypeScript](https://dev.to/_staticvoid/defining-static-methods-in-interfaces-with-typescript-4232)
-- [Why Devs Should Write Articles](https://dev.to/_staticvoid/why-devs-should-write-articles-bc)
-- [Definindo métodos estáticos em interfaces com TypeScript](https://dev.to/_staticvoid/definindo-metodos-estaticos-em-interfaces-com-typescript-43l8)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
