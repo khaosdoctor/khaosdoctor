@@ -38,11 +38,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
+- [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
+- [As filas chegaram no Deno KV](https://dev.to/_staticvoid/as-filas-chegaram-no-deno-kv-102m)
+- [Suporte a env, mudanças de api e novidades do Deno 1.38](https://dev.to/_staticvoid/suporte-a-env-mudancas-de-api-e-novidades-do-deno-138-3i8f)
 - [Accessing .env files natively with Node.js](https://dev.to/_staticvoid/accessing-env-files-natively-with-nodejs-44hf)
-- [How to run TypeScript natively in Node.js with TSX](https://dev.to/_staticvoid/how-to-run-typescript-natively-in-nodejs-with-tsx-3a0c)
-- [A versão 21.2 do Node é a mais especial de todas!](https://dev.to/_staticvoid/a-versao-212-do-node-e-a-mais-especial-de-todas-5boh)
-- [Novidades do Node 21!](https://dev.to/_staticvoid/novidades-do-node-21-5ep1)
-- [Novidades do TS 5.3 - Beta!](https://dev.to/_staticvoid/novidades-do-ts-53-beta-2faf)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
