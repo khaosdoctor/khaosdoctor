@@ -38,11 +38,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [Cronjobs na cloud com Deno Cron](https://dev.to/_staticvoid/cronjobs-na-cloud-com-deno-cron-5348)
+- [Criptografia #0 - Conceitos essenciais](https://dev.to/_staticvoid/criptografia-0-conceitos-essenciais-4dcd)
 - [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
 - [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
 - [As filas chegaram no Deno KV](https://dev.to/_staticvoid/as-filas-chegaram-no-deno-kv-102m)
-- [Suporte a env, mudanças de api e novidades do Deno 1.38](https://dev.to/_staticvoid/suporte-a-env-mudancas-de-api-e-novidades-do-deno-138-3i8f)
-- [Accessing .env files natively with Node.js](https://dev.to/_staticvoid/accessing-env-files-natively-with-nodejs-44hf)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
