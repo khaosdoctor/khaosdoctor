@@ -20,11 +20,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [Aplicações em tempo real com Deno KV](https://blog.lsantos.dev/deno-kv-watch/)
 - [Cronjobs na cloud com Deno Cron](https://blog.lsantos.dev/deno-cron/)
 - [Criptografia #0 - Conceitos essenciais](https://blog.lsantos.dev/criptografia-essencial/)
 - [As filas chegaram no Deno KV](https://blog.lsantos.dev/deno-kv-queues/)
 - [Suporte a env, mudanças de api e novidades do Deno 1.38](https://blog.lsantos.dev/deno-1-38/)
-- [A versão 21.2 do Node é a mais especial de todas!](https://blog.lsantos.dev/node-21-2/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
