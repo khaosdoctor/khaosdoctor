@@ -59,3 +59,5 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 
 - 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
+- I **absolutely** love all sorts of animals, I have three amazing cats, had dogs, fish, birds, and other stuff as well
+- I'm an adult with a late-diagnose of **ADHD** which makes my life not very easy, especially for creating things
