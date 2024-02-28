@@ -20,11 +20,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [Novidades do Deno 1.40](https://blog.lsantos.dev/novidades-do-deno-1-4/)
 - [O conceito de &quot;referência&quot; e &quot;valor&quot; no JavaScript](https://blog.lsantos.dev/o-conceito-de-referencia-e-valor-no-javascript/)
 - [Novidades do TypeScript 5.4](https://blog.lsantos.dev/novidades-no-typescript-5-4-beta/)
 - [Sobre Entrevistas Técnicas - Nunca foi sobre o código](https://blog.lsantos.dev/entrevistas-tecnicas/)
 - [Aplicações em tempo real com Deno KV](https://blog.lsantos.dev/deno-kv-watch/)
-- [Cronjobs na cloud com Deno Cron](https://blog.lsantos.dev/deno-cron/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
