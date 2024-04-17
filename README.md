@@ -20,11 +20,11 @@ My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [Você deveria estar usando Enums no TypeScript?](https://blog.lsantos.dev/enums-no-typescript/)
 - [Types versus interfaces em 2024 - qual usar?](https://blog.lsantos.dev/types-versus-interfaces-no-typescript-em-2024/)
 - [Filtrando classes e métodos de um tipo no TypeScript](https://blog.lsantos.dev/filtrando-classes-e-metodos-de-um-tipo-no-typescript/)
 - [Deno KV no NPM - o DB que você precisava e não sabia](https://blog.lsantos.dev/deno-kv-chega-ao-npm/)
 - [Já conhece os acessores automáticos no TypeScript?](https://blog.lsantos.dev/acessores-automaticos-com-typescript/)
-- [Parallel Assignments - A feature que você não sabia que existia no JavaScript](https://blog.lsantos.dev/parallel-assignments-a-feature-que-voce-nao-sabia-que-existia-no-javascript/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
