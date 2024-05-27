@@ -9,7 +9,16 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
 [![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
 
-My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently working in Sweden for @openvolt! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! I love Open-Source and I'm a developer since 2011! I love to teach and learn! I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259), [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos), and used to be a [Docker Captain](http://docker.com/captains), and was also awarded the TypeScript Champion from Deno.
+My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently working in Sweden for [@openvolt](https://github.com/openvolt)! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! 
+
+I truly love programming, especially Open-Source. I'm a developer since 2011! I love to teach and learn, due to that passion I was awarded with: 
+
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259),
+- [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos),
+- [Docker Captain](http://docker.com/captains),
+- TypeScript Champion from Deno.
+
+### Quick bits
 
 - 📬 I keep a **newsletter** filled with awesome stuff at [https://news.lsantos.dev](https://news.lsantos.dev) and would love if you joined it!
 - :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
