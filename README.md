@@ -24,6 +24,13 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 - :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
 - I'm also working on my [complete TypeScript course](https://formacaots.com.br), it's also in Portuguese and I'm working *really* hard to make it the best course on the planet! Please share if you like it!
 
+## ⚡ Fun facts
+
+- 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
+- I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
+- I **absolutely** love all sorts of animals, I have three amazing cats, had dogs, fish, birds, and other stuff as well
+- I'm an adult with a late-diagnose of **ADHD** which makes my life not very easy, especially for creating things
+
 ## 📝 Latest Blog Posts
 
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
@@ -63,10 +70,3 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 - [Using HarperDB with Kubernetes](https://faun.pub/using-harperdb-with-kubernetes-e796ea606e99?source=rss-84c42a22cef7------2)
 - [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
 <!-- MEDIUM:END -->
-
-## ⚡ Fun facts
-
-- 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
-- I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
-- I **absolutely** love all sorts of animals, I have three amazing cats, had dogs, fish, birds, and other stuff as well
-- I'm an adult with a late-diagnose of **ADHD** which makes my life not very easy, especially for creating things
