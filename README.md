@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-[![Twitter __staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.lsantos.dev)](https://twitter.lsantos.dev)
+[![Twitter _staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.lsantos.dev)](https://twitter.lsantos.dev)
 [![Linkedin: lsantosdev](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://linkedin.lsantos.dev)
 [![Youtube Lucas Santos](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.lsantos.dev)](https://youtube.lsantos.dev)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@lsantos.dev)
