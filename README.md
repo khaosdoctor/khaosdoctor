@@ -36,11 +36,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [Usando Assertion Functions no TypeScript](https://blog.lsantos.dev/assertion-functions/)
 - [Usando Mocks com Node Test Runner](https://blog.lsantos.dev/node-test-runner-mocks/)
 - [Começando com o Node.js Test Runner](https://blog.lsantos.dev/comecando-com-o-node-js-test-runner/)
 - [O que são &#39;const assertions&#39; no TypeScript? O famoso &#39;as const&#39;](https://blog.lsantos.dev/entenda-o-que-e-as-const-no-typescript/)
 - [Você deveria estar usando Enums no TypeScript?](https://blog.lsantos.dev/enums-no-typescript/)
-- [Types versus interfaces em 2024 - qual usar?](https://blog.lsantos.dev/types-versus-interfaces-no-typescript-em-2024/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
