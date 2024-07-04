@@ -37,10 +37,10 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 
 <!-- BLOG:START -->
 - [JavaScript ganha novos métodos para o Set](https://blog.lsantos.dev/ecma-2024-sets/)
-- [A maior atualização do TypeScript em anos - TypeScript 5.5](https://blog.lsantos.dev/typescript-55/)
 - [Usando Jest com TypeScript](https://blog.lsantos.dev/jest-com-typescript/)
 - [Usando Assertion Functions no TypeScript](https://blog.lsantos.dev/assertion-functions/)
 - [Usando Mocks com Node Test Runner](https://blog.lsantos.dev/node-test-runner-mocks/)
+- [Começando com o Node.js Test Runner](https://blog.lsantos.dev/comecando-com-o-node-js-test-runner/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
