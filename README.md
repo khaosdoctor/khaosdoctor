@@ -36,11 +36,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [O que há de novo no JavaScript em 2024](https://blog.lsantos.dev/ecma-2024/)
 - [O que é o Corepack e como você pode usá-lo?](https://blog.lsantos.dev/corepack/)
 - [A maior atualização do TypeScript em anos - TypeScript 5.5](https://blog.lsantos.dev/typescript-55/)
 - [JavaScript ganha novos métodos para o Set](https://blog.lsantos.dev/ecma-2024-sets/)
 - [Usando Jest com TypeScript](https://blog.lsantos.dev/jest-com-typescript/)
-- [Usando Assertion Functions no TypeScript](https://blog.lsantos.dev/assertion-functions/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
