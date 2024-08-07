@@ -54,11 +54,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
-- [Aplicações em tempo real com Deno KV](https://dev.to/_staticvoid/aplicacoes-em-tempo-real-com-deno-kv-24lk)
-- [Cronjobs na cloud com Deno Cron](https://dev.to/_staticvoid/cronjobs-na-cloud-com-deno-cron-5348)
-- [Criptografia #0 - Conceitos essenciais](https://dev.to/_staticvoid/criptografia-0-conceitos-essenciais-4dcd)
-- [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
-- [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
+- [Já conhece os acessores automáticos no TypeScript?](https://dev.to/_staticvoid/ja-conhece-os-acessores-automaticos-no-typescript-3pno)
+- [Parallel Assignments - A feature que você não sabia que existia no JavaScript](https://dev.to/_staticvoid/parallel-assignments-a-feature-que-voce-nao-sabia-que-existia-no-javascript-5eji)
+- [Criptografia #1 - Criptografia Assimétrica com RSA](https://dev.to/_staticvoid/criptografia-1-criptografia-assimetrica-com-rsa-k62)
+- [Novidades do Deno 1.40](https://dev.to/_staticvoid/novidades-do-deno-140-ik1)
+- [Novidades do TypeScript 5.4](https://dev.to/_staticvoid/novidades-do-typescript-54-3kfo)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
