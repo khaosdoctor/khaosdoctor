@@ -54,11 +54,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/khaosdoctor)
 
 <!-- DEVTO:START -->
+- [Cryptography #0 - Essential Concepts](https://dev.to/_staticvoid/cryptography-0-essential-concepts-1hnb)
+- [Filtrando classes e métodos de um tipo no TypeScript](https://dev.to/_staticvoid/filtrando-classes-e-metodos-de-um-tipo-no-typescript-3dbm)
+- [Deno KV no NPM - o DB que você precisava e não sabia](https://dev.to/_staticvoid/deno-kv-no-npm-o-db-que-voce-precisava-e-nao-sabia-317e)
 - [Já conhece os acessores automáticos no TypeScript?](https://dev.to/_staticvoid/ja-conhece-os-acessores-automaticos-no-typescript-3pno)
 - [Parallel Assignments - A feature que você não sabia que existia no JavaScript](https://dev.to/_staticvoid/parallel-assignments-a-feature-que-voce-nao-sabia-que-existia-no-javascript-5eji)
-- [Criptografia #1 - Criptografia Assimétrica com RSA](https://dev.to/_staticvoid/criptografia-1-criptografia-assimetrica-com-rsa-k62)
-- [Novidades do Deno 1.40](https://dev.to/_staticvoid/novidades-do-deno-140-ik1)
-- [Novidades do TypeScript 5.4](https://dev.to/_staticvoid/novidades-do-typescript-54-3kfo)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@khaosdoctor)
