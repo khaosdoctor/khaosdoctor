@@ -36,11 +36,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [[Backlog #1] O primeiro PC da história!](https://blog.lsantos.dev/backlog-1-o-primeiro-pc-de-todos/)
 - [[Backlog #0] Um desabafo](https://blog.lsantos.dev/backlog-0/)
 - [Deno 2.0: Será que agora o Node já era?](https://blog.lsantos.dev/deno-2/)
 - [O JavaScript será completamente diferente em 2025](https://blog.lsantos.dev/js-2025-de-novo/)
 - [Primeiros passos com Neovim](https://blog.lsantos.dev/instalando-e-configurando-o-neovim/)
-- [Usando tipos derivados](https://blog.lsantos.dev/tipos-derivados/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
