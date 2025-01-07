@@ -38,9 +38,9 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 <!-- BLOG:START -->
 - [Backlog #4 - A primeira linguagem de programação](https://blog.lsantos.dev/backlog-primeira-linguagem/)
 - [Backlog #3 - 29 anos de JavaScript!](https://blog.lsantos.dev/backlog-3-29-anos-de-javascript/)
-- [[Backlog #2] Trabalhar duro não vai te levar tão longe](https://blog.lsantos.dev/backlog-2/)
-- [[Backlog #1] O primeiro PC da história!](https://blog.lsantos.dev/backlog-1-o-primeiro-pc-de-todos/)
-- [[Backlog #0] Um desabafo](https://blog.lsantos.dev/backlog-0/)
+- [Backlog #2 - Trabalhar duro não vai te levar tão longe](https://blog.lsantos.dev/backlog-2/)
+- [Backlog #1 - O primeiro PC da história!](https://blog.lsantos.dev/backlog-1-o-primeiro-pc-de-todos/)
+- [Backlog #0 - Um desabafo](https://blog.lsantos.dev/backlog-0/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
