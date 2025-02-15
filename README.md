@@ -36,11 +36,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [Backlog #7 - As 10 Lições Que Mudaram a Minha Vida como Dev](https://blog.lsantos.dev/backlog-7-as-10-licoes-que-mudaram-a-minha-vida-como-dev-copy/)
 - [Backlog #6 - Você é um bom dev?](https://blog.lsantos.dev/backlog-bom-dev/)
 - [Tudo sobre o Node rodar TypeScript nativamente!](https://blog.lsantos.dev/o-nodejs-agora-roda-typescript-nativamente/)
 - [Backlog #5 - O grande show da bolha dev](https://blog.lsantos.dev/backlog-5-o-show-da-bolha/)
 - [Backlog #4 - A primeira linguagem de programação](https://blog.lsantos.dev/backlog-primeira-linguagem/)
-- [Backlog #3 - 29 anos de JavaScript!](https://blog.lsantos.dev/backlog-3-29-anos-de-javascript/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
