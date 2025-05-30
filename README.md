@@ -9,13 +9,13 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
 [![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
 
-My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently working in Sweden for [@openvolt](https://github.com/openvolt)! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! 
+My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently living in Sweden! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! 
 
 I truly love programming, especially Open-Source. I'm a developer since 2011! I love to teach and learn, due to that passion I was awarded with: 
 
-- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259),
-- [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos),
-- [Docker Captain](http://docker.com/captains),
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) since 2017,
+- ex [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos) for 8 years,
+- ex [Docker Captain](http://docker.com/captains) for 4 years,
 - TypeScript Champion from Deno.
 
 ### Quick bits
