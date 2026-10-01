@@ -25,7 +25,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
-          feed_list: "https://blog.lsantos.dev/author/lucas/rss/"
+          feed_list: "https://blog.lsantos.dev/en/rss"
       # - uses: gautamkrishnar/blog-post-workflow@master
       #   with:
       #     comment_tag_name: FCC
