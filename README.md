@@ -36,11 +36,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2011! I 
 ### [![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
 
 <!-- BLOG:START -->
+- [My relationship with AI at the moment](https://blog.lsantos.dev/en/my-relationship-with-ai-at-the-moment/)
 - [I&#39;m back!](https://blog.lsantos.dev/en/i-m-back/)
 - [Slopware: The End of Well-Made Code](https://blog.lsantos.dev/en/backlog-10-slopware-the-end-of-well-made-code/)
 - [What happened to devs?](https://blog.lsantos.dev/en/backlog-9-what-happened-to-the-devs/)
 - [My journey with Vim. Six months in, what changed?](https://blog.lsantos.dev/en/backlog-8-my-journey-with-vim-what-changed-in-6-months/)
-- [The 10 Lessons That Changed My Life as a Dev](https://blog.lsantos.dev/en/the-10-lessons-that-changed-my-life-as-a-dev/)
 <!-- BLOG:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/_staticvoid/)
